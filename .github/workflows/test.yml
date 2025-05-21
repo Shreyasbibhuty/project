@@ -1,5 +1,5 @@
 jobs:
   test:
     steps:
-        name: 23f3002399@ds.study.iitm.ac.in
+        -name: 23f3002399@ds.study.iitm.ac.in
         run: echo "Hello, world!"
